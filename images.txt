@@ -19,7 +19,7 @@ vaultwarden/server:latest
 
 #UnifiController
 #lscr.io/linuxserver/uniffi-controller:latest
-linuxserver/uniffi-controller:latest
+#linuxserver/uniffi-controller:latest
 
 #typecho
 joyqi/typecho:nightly-php7.4
