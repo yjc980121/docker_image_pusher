@@ -48,7 +48,7 @@ nextcloud
 deluan/navidrome:latest
 
 #NasTools
-sungamma/nas-tools:2.9.1
+#sungamma/nas-tools:2.9.1
 
 #MTPhotos
 mtphotos/mt-photos:latest
