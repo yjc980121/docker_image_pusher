@@ -1,12 +1,7 @@
+#Jackett
+ghcr.io/linuxserver/kackett:latest
 
-#Gogs
-gogs/gogs:latest
+#ITTools
+ghcr.io/corentinth/it-tools:latest
 
-#蓝山云-流量宝
-jinshanyun/jinshan-x86_64
 
-#网心云--容器魔方
-onething1/wxedge
-
-#Emby影院
-emby/embyserver
