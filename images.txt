@@ -18,7 +18,8 @@ linkease/webvirtcloud:latest
 vaultwarden/server:latest
 
 #UnifiController
-lscr.io/linuxserver/uniffi-controller:latest
+#lscr.io/linuxserver/uniffi-controller:latest
+linuxserver/uniffi-controller:latest
 
 #typecho
 joyqi/typecho:nightly-php7.4
@@ -33,10 +34,12 @@ linuxserver/plex:latest
 photoprism/photoprism
 
 #ChineseSubFinder
-ghcr.io/allanpk716/chinesesubfinder:latest-lite
+#ghcr.io/allanpk716/chinesesubfinder:latest-lite
+allanpk716/chinesesubfinder:latest-lite
 
 #Owntone
-ghcr.io/linuxserver/daapd:latest
+#ghcr.io/linuxserver/daapd:latest
+linuxserver/daapd:latest
 
 #Nextcloud
 nextcloud
@@ -63,13 +66,16 @@ dezhao/lanraragi_cn
 kodcloud/kodbox:latest
 
 #CodeServer
-lscr.io/linuxserver/code-server:latest
+#lscr.io/linuxserver/code-server:latest
+linuxserver/code-server:latest
 
 #Jackett
-ghcr.io/linuxserver/kackett:latest
+#ghcr.io/linuxserver/kackett:latest
+linuxserver/kackett:latest
 
 #ITTools
-ghcr.io/corentinth/it-tools:latest
+#ghcr.io/corentinth/it-tools:latest
+corentinth/it-tools:latest
 
 #HTReader
 hectorqin/reader
