@@ -1,17 +1,4 @@
 
-#ITTools
-#ghcr.io/corentinth/it-tools:latest
-corentinth/it-tools:latest
-
-#HTReader
-hectorqin/reader
-
-#Home Assistant
-homeassistant/home-assistant:latest
-
-#飞鼠组网
-registry.cn-qingdao.aliyuncs/feishuwg/p2p:v2.2
-
 #Gogs
 gogs/gogs:latest
 
