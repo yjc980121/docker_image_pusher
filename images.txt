@@ -54,7 +54,7 @@ deluan/navidrome:latest
 mtphotos/mt-photos:latest
 
 #Memos
-meosmemo/memos:latest
+#meosmemo/memos:latest
 
 #CloudDriver2
 cloudnas/clouddriver2
