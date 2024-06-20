@@ -1,18 +1,4 @@
 
-#LANraragi
-dezhao/lanraragi_cn
-
-#可道云
-kodcloud/kodbox:latest
-
-#CodeServer
-#lscr.io/linuxserver/code-server:latest
-linuxserver/code-server:latest
-
-#Jackett
-#ghcr.io/linuxserver/kackett:latest
-linuxserver/kackett:latest
-
 #ITTools
 #ghcr.io/corentinth/it-tools:latest
 corentinth/it-tools:latest
@@ -37,7 +23,3 @@ onething1/wxedge
 
 #Emby影院
 emby/embyserver
-
-
-
-
