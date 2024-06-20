@@ -1,7 +1,1 @@
-#Jackett
-ghcr.io/linuxserver/kackett:latest
-
-#ITTools
-ghcr.io/corentinth/it-tools:latest
-
-
+sungamma/nas-tools
