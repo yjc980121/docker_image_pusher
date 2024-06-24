@@ -1,2 +1,1 @@
-sungamma/nas-tools
-registry.cn-qingdao.aliyuncs/feishuwg/p2p
+netbootxyz/netbootxyz
